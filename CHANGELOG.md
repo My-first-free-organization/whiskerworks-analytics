@@ -1,4 +1,4 @@
 # Changelog
 
-## Sprint 139
-- analytics: maintenance and dependency updates (2026-11-25 17:11)
+## Sprint 140
+- analytics: maintenance and dependency updates (2026-11-26 07:12)
